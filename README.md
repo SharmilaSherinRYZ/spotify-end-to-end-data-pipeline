@@ -1,7 +1,7 @@
-# Spotify-End-To-End-Data-Pipeline
+#  Musical Insights: Spotify Data Exploration
 
 ### Introduction
-This project implements an ETL (Extract, Transform, Load) pipeline using the Spotify API on AWS. It extracts data from the Spotify API, transforms it, and loads it into an AWS data store for analysis and insights.
+This project is about collecting music data from Spotify and organizing it for easy analysis. Using AWS, it automatically fetches details like song names, artists, and playlists from Spotify, processes the data to make it useful, and stores it in a structured format. This helps in analyzing trends, popular songs, and other insights efficiently.
 
 ### Architecture
 <picture>
